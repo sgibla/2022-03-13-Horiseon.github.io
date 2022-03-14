@@ -25,5 +25,7 @@ THEN I find a concise, descriptive title
 I used the following tutorials/resournces:
 
 https://www.w3schools.com/Tags/tag_div.asp
+
 https://www.w3schools.com/accessibility/
+
 https://www.w3schools.com/html/html_images.asp

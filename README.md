@@ -22,10 +22,11 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-Final Proejct URL:
-file:///C:/Users/sgibl/OneDrive/Documents/GitHub/2022-03.13_Horiseon_Webpage_Refraction-skg/Develop/index.html#social-media-marketing
+Final Proejct URL:  file:///C:/Users/sgibl/OneDrive/Documents/GitHub/2022-03.13_Horiseon_Webpage_Refraction-skg/Develop/index.html#social-media-marketing
 
 I used the following tutorials/resournces:
 https://www.w3schools.com/Tags/tag_div.asp
+
 https://www.w3schools.com/accessibility/
+
 https://www.w3schools.com/html/html_images.asp

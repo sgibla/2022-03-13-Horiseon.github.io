@@ -1,4 +1,4 @@
-Lesson 1 UCLA Coding Bootcamp - using starter code with HTML and CSS and mockup website to add accessibility codes.
+03.13.2022 - Lesson 1 UCLA Coding Bootcamp - using starter code with HTML and CSS and mockup website to add accessibility codes.
 
 I am taking existing code and refactor it for visual accessbility.
 

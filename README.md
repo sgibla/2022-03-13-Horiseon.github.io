@@ -23,7 +23,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 Final Proejct URL:  
-file:///C:/Users/sgibl/OneDrive/Documents/GitHub/2022-03.13_Horiseon_Webpage_Refraction-skg/Develop/index.html#social-media-marketing
+https://sgibla.github.io/2022-03.13_Horiseon_Webpage_Refraction-skg/
 
 I used the following tutorials/resournces:
 
